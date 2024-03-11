@@ -20,9 +20,6 @@ Implement an application that allows the user to search and find all the strings
 
 Write a program that reads in a list of integers from the user, on one line, separated by commas. The program should then find and display the largest even number and the smallest odd number in the list, along with their respective positions. If there are no even or odd numbers in the list, the program should display a message saying so.
 
-## Exercise 6
-
-Write a game where the computer generates a random word (from a dictionary) and the user has to guess the word by inputting one letter at a time. After every guess, the program tells the user whether the letter is in the word or not and if it is in what position is the letter and display currently guessed letters and their position. At the end of the game, the program should display the word and the number of tries needed to guess the word. 
 
 
 
